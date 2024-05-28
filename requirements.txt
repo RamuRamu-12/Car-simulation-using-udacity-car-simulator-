@@ -1,0 +1,20 @@
+Flask
+Flask-SocketIO
+eventlet
+numpy
+pillow
+keras
+tensorflow  # or tensorflow-cpu if you don't have a GPU
+opencv-python
+socketio==0.2.1
+python-engineio==3.13.0
+
+
+# flask==2.0.2
+# Flask-SocketIO
+# keras
+# numpy==1.21.2
+# opencv-python==4.5.4.60
+# pillow==8.4.0
+# socketio==0.2.1
+# tensorflow
