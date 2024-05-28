@@ -1,0 +1,5 @@
+
+# Car Simulation using udacity car simulator
+
+
+Self-drivi cars has become a trending subject with a significant improvement in the technologies in the last decade. The project purpose is to train a neural network to drive an autonomous car agent on the tracks of Udacity’s Car Simulator environment. Udacity has released the simulator as an open source software and enthusiasts have hosted a competition (challenge) to teach a car how to drive using only camera images and deep learning. Driving a car in an autonomous manner requires learning to control steering angle, throttle and brakes. Behavioral cloning technique is used to mimic human driving behavior in the training mode on the track. That means a dataset is generated in the simulator by user driven car in training mode, and the deep neural network model then drives the car in autonomous mode. Ultimately, the car was able to run on Track 1 generalizing well. The project aims at reaching the same accuracy on real time data in the future.
